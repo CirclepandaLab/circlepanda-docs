@@ -1,5 +1,5 @@
 ## Contact
 
-- site - https://circlepanda.io/
-- mail - support@circlepanda.io
+- site - https://os.circlepanda.io/
+- mail - opensource@circlepanda.io
 

@@ -12,8 +12,7 @@
  <a href="https://gitter.im/CirclepandaLabs/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge"><img src="https://badges.gitter.im/CirclepandaLabs/community.svg"></a>
  </p>
 
-Hi! We're a group of small panda's looking to build useful tool that helps the developer ecology scale...
-
+Hi! We're a group of small panda's looking to build a useful tool that helps the developer ecology scale. Our goal is to change the narrative, simplifying the process while achieving optimal performance.
 
 ## Documentation
 
