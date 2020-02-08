@@ -15,4 +15,12 @@
 Hi! We're a group of small panda's looking to build useful tool that helps the developer ecology scale...
 
 
-Documentation Coming soon...
+## Documentation
+
+- [Code Standard](https://github.com/CirclepandaLab/circlepanda-docs/blob/master/src/CODE-STANDARD.md)
+- [Code of Conduct](https://github.com/CirclepandaLab/circlepanda-docs/blob/master/src/CONDUCT.md)
+- [Guidelines](https://github.com/CirclepandaLab/circlepanda-docs/blob/master/src/GUIDELINES.md)
+- [Getting started](https://github.com/CirclepandaLab/circlepanda-docs/blob/master/src/GET-STARTED.md)
+- [Help](https://github.com/CirclepandaLab/circlepanda-docs/blob/master/src/HELP.md)
+- [Contact](https://github.com/CirclepandaLab/circlepanda-docs/blob/master/src/CONTACT.md)
+- [Improving docs](https://github.com/CirclepandaLab/circlepanda-docs/blob/master/src/IMPROVE-DOC.md)
