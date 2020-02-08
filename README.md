@@ -15,6 +15,8 @@
 Hi! We're a group of small panda's looking to build a useful tool that helps the developer ecology scale. Our goal is to change the narrative, simplifying the process while achieving optimal performance.
 
 ## Documentation
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FCirclepandaLab%2Fcirclepanda-docs.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FCirclepandaLab%2Fcirclepanda-docs?ref=badge_shield)
+
 
 - [Code Standard](https://github.com/CirclepandaLab/circlepanda-docs/blob/master/src/CODE-STANDARD.md)
 - [Code of Conduct](https://github.com/CirclepandaLab/circlepanda-docs/blob/master/src/CONDUCT.md)
@@ -23,3 +25,7 @@ Hi! We're a group of small panda's looking to build a useful tool that helps the
 - [Help](https://github.com/CirclepandaLab/circlepanda-docs/blob/master/src/HELP.md)
 - [Contact](https://github.com/CirclepandaLab/circlepanda-docs/blob/master/src/CONTACT.md)
 - [Improving docs](https://github.com/CirclepandaLab/circlepanda-docs/blob/master/src/IMPROVE-DOC.md)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FCirclepandaLab%2Fcirclepanda-docs.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FCirclepandaLab%2Fcirclepanda-docs?ref=badge_large)
